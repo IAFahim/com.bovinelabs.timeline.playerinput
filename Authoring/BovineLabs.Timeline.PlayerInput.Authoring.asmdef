@@ -1,0 +1,30 @@
+{
+  "name": "BovineLabs.Timeline.PlayerInput.Authoring",
+  "rootNamespace": "BovineLabs.Timeline.PlayerInput.Authoring",
+  "references": [
+    "BovineLabs.Core.Authoring",
+    "BovineLabs.Reaction",
+    "BovineLabs.Reaction.Authoring",
+    "BovineLabs.Reaction.Data",
+    "BovineLabs.Timeline.Authoring",
+    "BovineLabs.Timeline.Core.Authoring",
+    "BovineLabs.Timeline.PlayerInput",
+    "PlayerInputs.Authoring",
+    "PlayerInputs.Data",
+    "Unity.Collections",
+    "Unity.Entities",
+    "Unity.Entities.Hybrid",
+    "Unity.Timeline"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": true,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [
+    "UNITY_EDITOR"
+  ],
+  "versionDefines": [],
+  "noEngineReferences": false
+}
